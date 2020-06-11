@@ -1,4 +1,4 @@
-package com.jojoldu.webservice;
+package com.popo.webservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

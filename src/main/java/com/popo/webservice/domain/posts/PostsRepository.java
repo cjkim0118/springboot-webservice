@@ -1,4 +1,4 @@
-package com.jojoldu.webservice.domain.posts;
+package com.popo.webservice.domain.posts;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
